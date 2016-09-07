@@ -1,0 +1,28 @@
+{
+    "cell": {
+	"name": "l5pc"
+    },
+    
+    "input_file": {
+	"morphology": "morphology_sample.hoc",
+	"mechanisms": "sample-mechanisms.json",
+	"parameters": "sample-parameters.json",
+	"protocols": "sample-protocols.json",
+	"features": "sample-features.json"
+    },
+
+    "thresholds": {
+	"soma": -20,
+	"default": -55
+    },
+
+    "optimize": {
+	"pool": 200,
+	"offspring": 2,
+	"ngen": 2
+    },
+
+    "run": {
+	"best": 3
+    }
+}

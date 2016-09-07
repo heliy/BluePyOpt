@@ -1,0 +1,22 @@
+{
+	"Step1": {
+		"soma": {
+			"Spikecount": [
+				3,
+				0.01
+			],
+                               "time_to_first_spike": [
+                                            100,
+                                            10
+                               ]
+		}
+	},
+	"Step2": {
+		"soma": {
+			"Spikecount": [
+				6,
+				0.01
+			]
+		}
+	}
+}

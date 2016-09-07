@@ -1,0 +1,17 @@
+Wrapper ChangeLog
+===========
+
+Version 0.0.6
+-------------------
+
+- support input ".hoc" morphology file
+- fix units error in slides ("Protocols JSON File" page)
+- add "Specific Global Parameters" page in slides
+
+
+Version 0.0.5
+-------------------
+
+- add Running Time Presentation
+- fix lost in sample-configure.json (slides)
+- begin change log

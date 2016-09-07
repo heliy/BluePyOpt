@@ -1,5 +1,6 @@
 *.pyc
 *.swp
+*~
 x86_64
 /bluepyopt.egg-info/
 /build/

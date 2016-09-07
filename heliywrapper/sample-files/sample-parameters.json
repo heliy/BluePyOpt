@@ -1,0 +1,36 @@
+[
+    {
+	"param_name": "celsius",
+	"type": "global",
+	"value": 22
+    },
+    
+    {
+        "param_name": "Ra",
+        "type": "section",
+	"location": "all",
+        "value": 200
+    },    
+    {
+        "param_name": "ena",
+        "type": "section",
+	"location": "all",
+        "value": 40
+
+    },
+    {
+        "param_name": "gbar_na3",
+	"location": "basal",
+        "type": "range",
+        "bounds": [
+            0,
+            0.5
+        ]
+    },
+    {
+        "param_name": "gbar_na3",
+	"location": "somatic",
+        "type": "range",
+	"init": 0.05
+    }
+]
